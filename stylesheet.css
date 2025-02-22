@@ -8,10 +8,12 @@ header {
 }
 
 .header-left {
+  line-height: 65px;
+  padding: 0 25px;
   color: white;
-  font-size:20px
-  padding-top:20px;
-  padding-bottom:20px;
+  display: block;
+  float: left;
+  transition: all 0.5s;
 }
 
 .header-right {
