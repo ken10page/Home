@@ -18,6 +18,7 @@ a {
 
 .top-wrapper {
   padding: 100px ;
+  height: 200px;
   background-image: url(AlexanderPlatz.jpg);
   background-size: cover;
   color: white;
