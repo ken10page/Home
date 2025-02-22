@@ -1,5 +1,5 @@
 header {
-  height: 65px;
+  height: 60px;
   width: 100%;
   background-color: rgba(34,49,52,0.9);
   position :fixed;
@@ -15,8 +15,12 @@ header {
 .header-left {
   float: left;
   color: white;
+  font-size:20px
+  padding:20px 10px;
 }
 
+
+  
 * {
   box-sizing: border-box;
 }
