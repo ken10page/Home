@@ -7,13 +7,10 @@ header {
   z-index: 10;
 }
 
-.header-left {
-  line-height: 65px;
-  padding: 0 25px;
+.header-left h1{
+  font-size:20px
+  margin: 20px auto;
   color: white;
-  display: block;
-  float: left;
-  transition: all 0.5s;
 }
 
 .header-right {
