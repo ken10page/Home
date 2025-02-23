@@ -6,7 +6,8 @@ header {
   height: 60px;
   width: 100%;
   background-color: rgba(34,49,52,0.9);
-  position :fixed;
+  position: fixed;
+  display: flex;
   top: 0;
   z-index: 10;
 }
@@ -14,7 +15,6 @@ header {
 .header-left h1{
   font-size: 20px;
   color: white;
-  display: flex;
   padding-left: 10px;
 }
 
