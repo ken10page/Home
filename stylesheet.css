@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 header {
   height: 60px;
   width: 100%;
@@ -5,17 +9,15 @@ header {
   position :fixed;
   top: 0;
   z-index: 10;
-  display: flex;
 }
 
 .header-left h1{
-  font-size: 5px;
+  font-size: 20px;
   color: white;
+  display: flex;
+  padding-left: 10px;
 }
 
-* {
-  box-sizing: border-box;
-}
 
 body {
   margin: 0;
