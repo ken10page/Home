@@ -9,15 +9,14 @@ a {
 
 .top-wrapper {
   width:100%;  
-  height:500px;
+  height:1000px;
   background-image:url(AlexanderPlatz.jpg);
   background-size:cover;
-  color:white;
 }
 
 .top-wrapper h2{
-  -left:20px;
-  padding-bottom:20px;
+  padding-left:30px;
+  padding-bottom:30px;
   font-size:20px;
   color:white
 {
