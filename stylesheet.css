@@ -14,8 +14,9 @@ a {
   background-size:cover;
 }
 
-.top-wrapper p{
-  font-size:20px;
+.top-wrapper h3{
+  padding-bottom:20px;
+  font-size:10px;
   color:white;
 }
 
