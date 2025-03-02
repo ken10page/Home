@@ -19,5 +19,6 @@ a {
   position:absolute;
   left:0;
   bottom:0;
+  padding-left:15px;
   color:white;
 }
