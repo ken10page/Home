@@ -16,7 +16,7 @@ header{
   z-index: 10;
 }
 
-.title{
+header h2{
   font-size:30px;
   color:white;
 }
@@ -35,4 +35,8 @@ header{
   bottom:0;
   margin-left:30px;
   color:white;
+}
+
+.middle-wrapper{
+  
 }
